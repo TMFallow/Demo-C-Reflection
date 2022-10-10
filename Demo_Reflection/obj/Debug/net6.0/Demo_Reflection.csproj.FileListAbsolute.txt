@@ -1,0 +1,15 @@
+D:\Demo\DEMO_Day_6\Demo_Reflection\Demo_Reflection\bin\Debug\net6.0\Demo_Reflection.exe
+D:\Demo\DEMO_Day_6\Demo_Reflection\Demo_Reflection\bin\Debug\net6.0\Demo_Reflection.deps.json
+D:\Demo\DEMO_Day_6\Demo_Reflection\Demo_Reflection\bin\Debug\net6.0\Demo_Reflection.runtimeconfig.json
+D:\Demo\DEMO_Day_6\Demo_Reflection\Demo_Reflection\bin\Debug\net6.0\Demo_Reflection.dll
+D:\Demo\DEMO_Day_6\Demo_Reflection\Demo_Reflection\bin\Debug\net6.0\Demo_Reflection.pdb
+D:\Demo\DEMO_Day_6\Demo_Reflection\Demo_Reflection\obj\Debug\net6.0\Demo_Reflection.csproj.AssemblyReference.cache
+D:\Demo\DEMO_Day_6\Demo_Reflection\Demo_Reflection\obj\Debug\net6.0\Demo_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\DEMO_Day_6\Demo_Reflection\Demo_Reflection\obj\Debug\net6.0\Demo_Reflection.AssemblyInfoInputs.cache
+D:\Demo\DEMO_Day_6\Demo_Reflection\Demo_Reflection\obj\Debug\net6.0\Demo_Reflection.AssemblyInfo.cs
+D:\Demo\DEMO_Day_6\Demo_Reflection\Demo_Reflection\obj\Debug\net6.0\Demo_Reflection.csproj.CoreCompileInputs.cache
+D:\Demo\DEMO_Day_6\Demo_Reflection\Demo_Reflection\obj\Debug\net6.0\Demo_Reflection.dll
+D:\Demo\DEMO_Day_6\Demo_Reflection\Demo_Reflection\obj\Debug\net6.0\refint\Demo_Reflection.dll
+D:\Demo\DEMO_Day_6\Demo_Reflection\Demo_Reflection\obj\Debug\net6.0\Demo_Reflection.pdb
+D:\Demo\DEMO_Day_6\Demo_Reflection\Demo_Reflection\obj\Debug\net6.0\Demo_Reflection.genruntimeconfig.cache
+D:\Demo\DEMO_Day_6\Demo_Reflection\Demo_Reflection\obj\Debug\net6.0\ref\Demo_Reflection.dll
